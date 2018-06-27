@@ -1,7 +1,7 @@
 # Deep Matching Papers
 A list of recent papers regarding deep reinforcement learning. <br>
-The papers are organized based on manually-defined bookmarks. <br>
-They are sorted by time to see the recent papers first. <br>
+<!-- The papers are organized based on manually-defined bookmarks. <br> -->
+<!-- They are sorted by time to see the recent papers first. <br> -->
 Any suggestions and pull requests are welcome. 
 
 <!-- # Bookmarks
