@@ -4,7 +4,7 @@ The papers are organized based on manually-defined bookmarks. <br>
 They are sorted by time to see the recent papers first. <br>
 Any suggestions and pull requests are welcome. 
 
-# Bookmarks
+<!-- # Bookmarks
   ## [Traditional Approaches to Matching](#traditional-approaches-to-matching)
 
     ### Traditional matching models for search 
@@ -15,7 +15,7 @@ Any suggestions and pull requests are welcome.
 
     ### Deep matching models for search
 
-    ### Deep matching models for recommendation
+    ### Deep matching models for recommendation -->
 
 ## Traditional Approaches to Matching
   
