@@ -63,11 +63,11 @@ Any suggestions and pull requests are welcome.
   * [BPR: Bayesian personalized ranking from implicit feedback](), Steffen Rendle et al, *UAI*, 2009
   
 
-
+<!-- 
 
 
   – Deep matching models for search
-  – Deep matching models for recommendation
+  – Deep matching models for recommendation -->
   
 
 ## Deep Learning Approaches to Matching
