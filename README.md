@@ -1,5 +1,7 @@
 # Deep Matching Papers
 A list of recent papers regarding deep reinforcement learning. <br>
+The papers are organized based on manually-defined bookmarks. <br>
+They are sorted by time to see the recent papers first. <br>
 Any suggestions and pull requests are welcome. 
 
 <!-- # Bookmarks
@@ -48,7 +50,7 @@ Any suggestions and pull requests are welcome.
 
  ### Traditional matching models for recommendation 
 
-  https://en.wikipedia.org/wiki/Collaborative_filtering
+  <!-- https://en.wikipedia.org/wiki/Collaborative_filtering -->
   * [Fast matrix factorization for online recommendation with implicit feedback](),Xiangnan He et al, *SIGIR*, 2016
   * [Advances in collaborative filtering. Recommender systems handbook](), Yehuda Koren et al, *MA*, 2015
   * [Fism: factored item similarity models for top-n recommender systems](), Santosh Kabbur et al, *KDD*, 2013
