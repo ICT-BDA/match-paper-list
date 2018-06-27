@@ -1,7 +1,5 @@
 # Deep Matching Papers
 A list of recent papers regarding deep reinforcement learning. <br>
-The papers are organized based on manually-defined bookmarks. <br>
-They are sorted by time to see the recent papers first. <br>
 Any suggestions and pull requests are welcome. 
 
 <!-- # Bookmarks
@@ -40,11 +38,11 @@ Any suggestions and pull requests are welcome.
   * [Learning Query and Document Similarities from Click-through Bipartite Graph with Metadata](), Wei Wu et al, *Microsoft Research Technical Report*, 2011     
   * [Relevance Ranking Using Kernels](), Jun Xu et al, *AIRS*, 2010   
   * [Psychology of Learning and Motivation: Advances in Research and Theory](), Brian H. Ross et al, *Elsevier*, 2002   
-  * [](), et al, *  *,    
+  <!-- * [](), et al, *  *,     -->
   <!-- • Jianfeng Gao : Statistical Translation and Web Search Ranking. http://research.microsoft.com/enus/um/people/jfgao/paper/SMT4IR.res.pptx -->  
-  * [](), et al, *  *,
+  <!-- * [](), et al, *  *, -->
   <!-- • R. Rosipal and N. Krämer. Overview and recent advances in partial least squares. Subspace, Latent Structure and Feature Selection, 2006. --> 
-  * [](), et al, *  *,
+  <!-- * [](), et al, *  *, -->
   <!-- • Hector Garcia-Molina, Georgia Koutrika, Aditya Parameswaran, Information Seeking: Convergence of Search, Recommendations, and Advertising Communications of the ACM, Vol. 54 No. 11, Pages 121-130. -->
 
 
